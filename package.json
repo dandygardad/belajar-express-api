@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/dandygardad/belajar-express-api#readme",
   "dependencies": {
+    "dotenv": "^16.0.0",
     "express": "^4.18.0",
     "pg": "^8.7.3"
   }
